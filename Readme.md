@@ -1,8 +1,8 @@
-# MNIST Digit Classifier 🔢
+# MNIST Digit Classifier
 
 This project is a Python implementation of a CNN model that classifies handwritten digits (0–9) using the MNIST dataset.
 
-## 🧠 Model Overview
+## Model Overview
 
 - Uses TensorFlow & Keras
 - Trained for 5 epochs

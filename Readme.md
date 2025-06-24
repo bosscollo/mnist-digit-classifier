@@ -8,7 +8,7 @@ This project is a Python implementation of a CNN model that classifies handwritt
 - Trained for 5 epochs
 - Reaches over 97% accuracy
 
-## 🏁 Run the model
+## Run the model
 
 ```bash
 pip install -r requirements.txt
